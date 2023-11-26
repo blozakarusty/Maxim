@@ -10,6 +10,6 @@ features:
 - title: Investing
   details: Synthesis of Noteworthy Notions
 - title: Health
-  details: Collection of Concepts
+  details: Collection of Concepts and so 
 footer: Made by Maxim with ❤️
 ---
